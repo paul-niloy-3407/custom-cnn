@@ -1,0 +1,214 @@
+true_class,predicted_class,count
+roller derby,wheelchair basketball,4
+swimming,water polo,3
+rollerblade racing,wheelchair basketball,3
+nascar racing,formula 1 racing,3
+football,lacrosse,3
+bungee jumping,frisbee,2
+fly fishing,disc golf,2
+horse jumping,jousting,2
+sky surfing,skydiving,2
+speed skating,hockey,2
+surfing,canoe slamon,2
+sidecar racing,nascar racing,2
+sidecar racing,formula 1 racing,2
+log rolling,hammer throw,2
+javelin,rugby,2
+mushing,roller derby,2
+rings,olympic wrestling,2
+cheerleading,rollerblade racing,2
+cheerleading,lacrosse,2
+bobsled,snowmobile racing,2
+golf,croquet,2
+shot put,olympic wrestling,2
+ski jumping,giant slalom,2
+snow boarding,canoe slamon,2
+ultimate,lacrosse,2
+skydiving,snowmobile racing,2
+water cycling,bmx,2
+axe throwing,tug of war,1
+barell racing,bull riding,1
+bmx,baseball,1
+bmx,motorcycle racing,1
+bobsled,formula 1 racing,1
+bmx,skydiving,1
+bike polo,motorcycle racing,1
+axe throwing,pole climbing,1
+arm wrestling,shuffleboard,1
+arm wrestling,shot put,1
+baseball,football,1
+barell racing,steer wrestling,1
+barell racing,disc golf,1
+boxing,olympic wrestling,1
+bungee jumping,figure skating pairs,1
+bungee jumping,figure skating men,1
+cheerleading,wheelchair basketball,1
+chuckwagon racing,bull riding,1
+chuckwagon racing,harness racing,1
+cricket,bmx,1
+cricket,disc golf,1
+cricket,football,1
+bobsled,luge,1
+bike polo,wheelchair basketball,1
+billiards,rugby,1
+baton twirling,shot put,1
+fencing,judo,1
+fencing,hockey,1
+fencing,air hockey,1
+disc golf,croquet,1
+figure skating pairs,rings,1
+fly fishing,frisbee,1
+field hockey,lacrosse,1
+fencing,snowmobile racing,1
+frisbee,rings,1
+frisbee,rock climbing,1
+frisbee,surfing,1
+gaga,basketball,1
+gaga,bull riding,1
+basketball,cheerleading,1
+baton twirling,jai alai,1
+baton twirling,baseball,1
+bowling,shuffleboard,1
+bowling,judo,1
+bowling,basketball,1
+archery,bike polo,1
+archery,figure skating pairs,1
+archery,pole vault,1
+arm wrestling,baton twirling,1
+arm wrestling,bowling,1
+ampute football,lacrosse,1
+ampute football,ultimate,1
+archery,air hockey,1
+air hockey,basketball,1
+air hockey,boxing,1
+air hockey,olympic wrestling,1
+ampute football,archery,1
+ampute football,bull riding,1
+horseshoe pitching,pole climbing,1
+horseshoe pitching,frisbee,1
+horseshoe pitching,bmx,1
+horse racing,chuckwagon racing,1
+horse jumping,uneven bars,1
+horse jumping,baseball,1
+harness racing,bmx,1
+harness racing,bike polo,1
+golf,pole vault,1
+hang gliding,mushing,1
+hang gliding,giant slalom,1
+hammer throw,balance beam,1
+giant slalom,sailboat racing,1
+golf,field hockey,1
+gaga,hurdles,1
+gaga,jousting,1
+frisbee,pole vault,1
+frisbee,hammer throw,1
+gaga,chuckwagon racing,1
+jai alai,axe throwing,1
+judo,basketball,1
+judo,pole vault,1
+jousting,chuckwagon racing,1
+javelin,high jump,1
+javelin,boxing,1
+javelin,balance beam,1
+hydroplane racing,pole dancing,1
+horseshoe pitching,rock climbing,1
+hydroplane racing,canoe slamon,1
+horseshoe pitching,shuffleboard,1
+hurdles,horse jumping,1
+hurdles,rollerblade racing,1
+mushing,canoe slamon,1
+motorcycle racing,formula 1 racing,1
+luge,snowmobile racing,1
+luge,snow boarding,1
+log rolling,rowing,1
+luge,hydroplane racing,1
+lacrosse,field hockey,1
+nascar racing,uneven bars,1
+pole dancing,figure skating women,1
+pole vault,hammer throw,1
+parallel bar,billiards,1
+parallel bar,high jump,1
+pole climbing,barell racing,1
+pole climbing,rock climbing,1
+pole climbing,skydiving,1
+pole dancing,bowling,1
+pommel horse,olympic wrestling,1
+pommel horse,judo,1
+pommel horse,basketball,1
+polo,lacrosse,1
+polo,horse racing,1
+pole vault,high jump,1
+rings,baseball,1
+jousting,horse racing,1
+lacrosse,rugby,1
+ice climbing,skydiving,1
+ice climbing,snowmobile racing,1
+ice yachting,canoe slamon,1
+ice yachting,rowing,1
+hydroplane racing,formula 1 racing,1
+hydroplane racing,jai alai,1
+hydroplane racing,motorcycle racing,1
+sidecar racing,motorcycle racing,1
+shuffleboard,olympic wrestling,1
+shot put,rugby,1
+shuffleboard,baton twirling,1
+shot put,figure skating pairs,1
+rowing,chuckwagon racing,1
+rugby,ultimate,1
+rugby,wheelchair basketball,1
+rings,high jump,1
+sky surfing,pole vault,1
+sky surfing,weightlifting,1
+snow boarding,giant slalom,1
+snow boarding,rock climbing,1
+sky surfing,giant slalom,1
+skydiving,canoe slamon,1
+ski jumping,snowmobile racing,1
+speed skating,giant slalom,1
+snowmobile racing,formula 1 racing,1
+snow boarding,skydiving,1
+steer wrestling,jousting,1
+steer wrestling,rock climbing,1
+steer wrestling,roller derby,1
+sumo wrestling,basketball,1
+steer wrestling,bull riding,1
+sumo wrestling,olympic wrestling,1
+table tennis,air hockey,1
+table tennis,field hockey,1
+table tennis,rings,1
+table tennis,weightlifting,1
+tennis,baseball,1
+ski jumping,snow boarding,1
+ski jumping,skydiving,1
+tennis,rings,1
+tennis,figure skating pairs,1
+trapeze,giant slalom,1
+track bicycle,wheelchair basketball,1
+trapeze,rowing,1
+tug of war,football,1
+tug of war,horse racing,1
+trapeze,figure skating pairs,1
+tug of war,lacrosse,1
+tug of war,volleyball,1
+ultimate,bmx,1
+uneven bars,steer wrestling,1
+uneven bars,trapeze,1
+volleyball,basketball,1
+volleyball,boxing,1
+trapeze,pole vault,1
+volleyball,judo,1
+water cycling,ice climbing,1
+weightlifting,field hockey,1
+weightlifting,olympic wrestling,1
+weightlifting,tennis,1
+weightlifting,volleyball,1
+wheelchair basketball,boxing,1
+wheelchair racing,baseball,1
+wheelchair racing,bike polo,1
+wheelchair racing,bull riding,1
+wheelchair racing,track bicycle,1
+wingsuit flying,bowling,1
+wingsuit flying,giant slalom,1
+wingsuit flying,jai alai,1
+wingsuit flying,jousting,1
+wingsuit flying,nascar racing,1
